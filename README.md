@@ -1,11 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm J B Sankarlal</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="center">Hi 👋, This is J B Sankarlal</h1>
 <img align="right" alt="Coding" width="400" src="https://dresma.ai/wp-content/uploads/2022/01/mern-stack-developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jbsankarlal&label=Profile%20views&color=0e75b6&style=flat" alt="jbsankarlal" /> </p>
 
-- 🌱 I’m currently learning **Vue JS**
+- 🌱 I’m currently working as a **Senior Full Stack Engineer**
 
 - 💬 Ask me about **Javascript, Node JS, Express JS, React JS, OOPs**
 
