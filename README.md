@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently working as a **Senior Full Stack Engineer**
 
-- 💬 Ask me about **Javascript, Node JS, Express JS, React JS, OOPs**
+- 💬 Ask me about **Javascript, Node JS, Express JS, React JS, OOPs, Devops**
 
 - 📫 How to reach me **jbsankarlal@gmail.com**
 
