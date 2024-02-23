@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently working as a **Senior Full Stack Engineer**
 
-- 💬 Let's discuss about **JavaScript, Node.js, Express,js, React.js, Realtional & Non-relational DBs, OOPs concepts, Devops**
+- 💬 Let's discuss about **JavaScript, Node.js, Express,js, React.js, Relational & Non-relational DBs, OOPs concepts, Devops**
 
-- Follow my blogs at **blog.sankarlal.in**
+- Read my blogs at **blog.sankarlal.in**
 
 - 📫 How to reach me **jbsankarlal@gmail.com**
 
